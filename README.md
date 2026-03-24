@@ -1,5 +1,4 @@
- Supermarket Sales SQL Project
-
+# Supermarket Sales Data Analysis Using SQL
  Project Overview
 
 This project analyzes supermarket sales data using SQL to generate business insights.
@@ -12,12 +11,18 @@ Dataset
 
 Supermarket sales dataset from Kaggle
 
-Key Insights
+## Key Insights
+- Giza and Alex branches recorded the highest customer ratings
+- Cash and E-wallet are the most preferred payment methods
+- Product lines contribute differently to revenue and profit
+- Customer spending patterns vary by gender and customer type
 
-* Giza and Alex branches have the highest customer ratings
-* Cash and E-wallet are the most used payment methods
-* Some product lines generate more revenue than others
-
+- ## Sample Queries
+Some of the analysis performed includes:
+- Total sales by branch
+- Sales by product line
+- Monthly sales trend
+- Customer rating analysis
  Conclusion
 
 This project helped me improve my SQL skills and understand data analysis.
